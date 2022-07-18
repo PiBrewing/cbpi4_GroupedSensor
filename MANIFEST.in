@@ -1,2 +1,2 @@
-include cbpi4_GroupedSensor/config.yaml
-recursive-include cbpi4_GroupedSensor/static *
+include cbpi4-GroupedSensor/config.yaml
+recursive-include cbpi4-GroupedSensor/static *
