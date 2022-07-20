@@ -17,5 +17,6 @@ Alternativeley you can install (or clone) it from the GIT Repo. In case of updat
 
 Changelog:
 
+- 20.07.22: (0.0.3) Fixed property issues (Actor <-> Sensor)
 - 12.07.22: (0.0.2) Added min/max function (Contributed by Bernd Helm)
 - 11.06.22: (0.0.1) Initial commit

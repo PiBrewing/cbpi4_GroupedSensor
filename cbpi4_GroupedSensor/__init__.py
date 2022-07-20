@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
             Property.Sensor(label="Sensor01", description="Select a sensor for this group."),
             Property.Sensor(label="Sensor02", description="Select a sensor for this group."),
             Property.Sensor(label="Sensor03", description="Select a sensor for this group."),
-            Property.Actor(label="Sensor04", description="Select a sensor for this group."),
+            Property.Sensor(label="Sensor04", description="Select a sensor for this group."),
             Property.Sensor(label="Sensor05", description="Select a sensor for this group."),
             Property.Sensor(label="Sensor06", description="Select a sensor for this group."),
             Property.Sensor(label="Sensor07", description="Select a sensor for this group."),
