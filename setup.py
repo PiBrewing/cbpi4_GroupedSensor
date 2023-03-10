@@ -11,7 +11,7 @@ setup(name='cbpi4_GroupedSensor',
       description='CraftBeerPi4 Sensor Plugin',
       author='A. Vollkopf, B. Helm',
       author_email='avollkopf@web.de',
-      url='https://github.com/avollkopf/cbpi4_GroupedSensor',
+      url='https://github.com/PiBrewing/cbpi4_GroupedSensor',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
