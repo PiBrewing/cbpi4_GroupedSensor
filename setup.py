@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='cbpi4_GroupedSensor',
-      version='0.0.3',
+      version='0.0.4',
       description='CraftBeerPi4 Sensor Plugin',
       author='A. Vollkopf, B. Helm',
       author_email='avollkopf@web.de',
